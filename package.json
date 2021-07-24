@@ -1,0 +1,23 @@
+{
+  "name": "ttrurlshorter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "debug": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Three-Times-Reborned/TTRUrlshorter.git"
+  },
+  "author": "TTRCharlie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Three-Times-Reborned/TTRUrlshorter/issues"
+  },
+  "homepage": "https://github.com/Three-Times-Reborned/TTRUrlshorter#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
